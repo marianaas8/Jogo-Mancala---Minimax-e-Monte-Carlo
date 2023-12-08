@@ -1,4 +1,4 @@
-README - Jogo Mancala
+# README
 
 Para correr e conseguir jogar o jogo Mancala, siga os seguintes passos:
 
